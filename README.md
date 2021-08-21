@@ -1,4 +1,4 @@
-HI! I'm ajobi-uhc or Arya Jakkli.
+HI! I'm Arya Jakkli.
 
 I'm currently in love with everything that is blockchain: MEV, Blockchain data analytics, NFT markets, decentralized storage solutions using Merkle trees and much more!
 
